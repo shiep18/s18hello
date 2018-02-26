@@ -10,4 +10,11 @@
 hello world test for learning
 大家好我是xkn
 大家好我是GYL
+<<<<<<< HEAD
 >>>>>>> edfeffded8ad8002b4c370cea2106e82fc0013bf
+=======
+大家好 我是郭新宇♂
+大家好 我是hein
+大家好，我是张子旭
+
+>>>>>>> 8b71ac668ed064312512c978f8e3447202f7eac4
