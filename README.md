@@ -6,11 +6,10 @@
 完成了xxx
 学会了github
 hello world test for learning
-# 我是LYF
-# 大家好我是GYL
-## Day1:♂了GRD
-# 大家好我是CLD
-# 大家好我是GRD
-## Day1:认识了GYL
-# 我是ZL
-## DAY1
+大家好我是xkn
+大家好我是GYL
+
+## Day1：
+# 大家好我是lwf
+学习了fusion360
+# 大家好我是lwf
