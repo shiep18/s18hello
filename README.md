@@ -16,7 +16,7 @@ hello world test for learning
 ## 那一年的管润东
 # 大家好 我是ZZX
 ## Day1:OB了 GRD & GYL
-## 你好，我是L2G
+## 你好，我是L2G渣渣辉
 # dd
 =======
 # 我是ZL
