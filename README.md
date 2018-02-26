@@ -14,3 +14,6 @@ hello world test for learning
 ## Day1:认识了GYL
 # 我是ZL
 ## DAY1
+# 我是刘颖峰
+## Day1：
+   注册了GitHub，学习了Auto Desk
