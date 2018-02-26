@@ -15,3 +15,6 @@ hello world test for learning
 # 大家好我是LYF
 ## Day1：
 注册了GitHub用户，学习了Auto Desk的基本操作。
+# 大家好我是X
+## Day1：
+。。。。。。
