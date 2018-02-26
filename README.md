@@ -9,7 +9,7 @@ hello world test for learning
 <<<<<<< HEAD
 大家好我是xkn
 大家好我是GYL
-
+# 我是杨老师和李老师
 ## Day1：
 # 大家好我是lwf
 学习了fusion360# 大家好我是lwf
@@ -48,3 +48,4 @@ hello world test for learning
 >>>>>>> f7bc41e55f17a0c15e2df2e757ed8f229746c398
 >>>>>>> 40a2c4a2ceb275d2b9a12b7617931e173d7a9af9
 >>>>>>> 314be32a2bb653c297f10a19a7856b0408bc2f99
+# 888888
