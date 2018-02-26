@@ -16,7 +16,7 @@ hello world test for learning
 # 大家好我是CLD
 # 大家好我是GRD
 ## Day1:认识了GYL
->>>>>>> 061314012cfb1382922d5f356320a1165a40acc7 
+>>>>>>> 061314012cfb1382922d5f356320a1165a40acc7
 # 我是ZL
 ## DAY1
 # i am Umakoshi
