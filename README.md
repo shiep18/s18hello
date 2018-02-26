@@ -7,9 +7,11 @@
 学会了github
 hello world test for learning
 # 大家好我是LYF
-## Day1：a le LJ
+## Day1:LJ
 # 大家好我是GYL
 ## Day1:♂了GRD
 # 大家好我是GRD
 ## Day1:认识了GYL
 ## 那一年的管润东
+# 大家好 我是ZZX
+## Day1:OB GRD & GYL
