@@ -26,6 +26,11 @@ hello world test for learning
 =======
 # 我是ZL
 ## DAY1
+<<<<<<< HEAD
+# 我是刘颖峰
+## Day1：
+   注册了GitHub，学习了Auto Desk
+=======
 >>>>>>> b095851f44e3150df05ee3f985f8ee7de075dd17
 =======
 >>>>>>> 061314012cfb1382922d5f356320a1165a40acc7
@@ -33,3 +38,4 @@ hello world test for learning
 ## DAY1
 # i am Umakoshi o
 >>>>>>> f7bc41e55f17a0c15e2df2e757ed8f229746c398
+>>>>>>> 40a2c4a2ceb275d2b9a12b7617931e173d7a9af9
