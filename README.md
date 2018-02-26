@@ -6,7 +6,14 @@
 完成了xxx
 学会了github
 hello world test for learning
-
+# 我是LYF
 # 大家好我是GYL
 ## Day1:♂了GRD
+<<<<<<< HEAD
 # 大家好我是jxx
+=======
+# 大家好我是CLD
+# 大家好我是GRD
+## Day1:认识了GYL
+# 我是jxx
+>>>>>>> 061314012cfb1382922d5f356320a1165a40acc7
