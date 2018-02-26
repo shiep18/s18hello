@@ -9,8 +9,10 @@ hello world test for learning
 # 我是LYF
 # 大家好我是GYL
 ## Day1:♂了GRD
+# 大家好我是CLD
 # 大家好我是GRD
 ## Day1:认识了GYL
+<<<<<<< HEAD
 
 # 大家好我是LYF
 ## Day1：
@@ -18,3 +20,7 @@ hello world test for learning
 # 大家好我是X
 ## Day1：
 。。。。。。
+=======
+# 我是ZL
+## DAY1
+>>>>>>> 9e24266462a609572fbaea7d3eca9406ae62b3f7
