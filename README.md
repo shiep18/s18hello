@@ -6,6 +6,10 @@
 完成了xxx
 学会了github
 hello world test for learning
+# 大家好，我是李2进边上的yzh
+# 我是赵慧敏
+# 大家好 我是胡广洋
+# 我是郑朗
 # 我是LYF
 # 大家好我是GYL
 ## Day1:♂了GRD
