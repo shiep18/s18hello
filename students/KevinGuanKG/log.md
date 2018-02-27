@@ -1,2 +1,1 @@
-![](grd.jpg)
 ![](AAA.jpg)
