@@ -16,6 +16,14 @@ hello world test for learning
 # 大家好我是CLD
 # 大家好我是GRD
 ## Day1:认识了GYL
+<<<<<<< HEAD
+<<<<<<< HEAD
+## 那一年的管润东
+# 大家好 我是ZZX
+## Day1:OB了 GRD & GYL
+## 你好，我是L2G渣渣辉
+# dd
+=======
 # 我是ZL
 ## DAY1
 <<<<<<< HEAD
@@ -23,6 +31,7 @@ hello world test for learning
 ## Day1：
    注册了GitHub，学习了Auto Desk
 =======
+>>>>>>> b095851f44e3150df05ee3f985f8ee7de075dd17
 =======
 >>>>>>> 061314012cfb1382922d5f356320a1165a40acc7
 # 我是ZL

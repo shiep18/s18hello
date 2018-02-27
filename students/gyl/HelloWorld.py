@@ -1,6 +1,6 @@
 <<<<<<< HEAD
+print("hello")
+=======
 hello world
 zhangzixu come here one time.
-=======
->>>>>>> e3613cb397b5e5d4cc67a13421a7f3eb9ed0d1a3
-print("hello")
+>>>>>>> a4e02870b8d8fd2203d5d13107709785151d99eb
