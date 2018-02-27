@@ -1,6 +1,7 @@
 # s18hello
 hello world test for learning
 <<<<<<< HEAD
+<<<<<<< HEAD
 大家好我是xkn
 大家好我是GYL
 大家好 我是郭新宇♂
@@ -24,3 +25,10 @@ hello world test for learning
 ## liu
 >>>>>>> f7bc41e55f17a0c15e2df2e757ed8f229746c398
 ##刘y
+=======
+大家好我是xkn
+## 大家好，我是李2进边上的yzh
+# 我是赵慧敏
+# 大家好 我是胡广洋
+# 我是郑朗
+>>>>>>> 692abebb9c15ea2f7443cdc35d7387af3d433c3d
