@@ -1,11 +1,6 @@
 # s18hello
-上海电力学院嵌入式工程实践2018年课程记录
-# 大家好我是xkn
-## Day1：
-学习了fusion360
-完成了xxx
-学会了github
 hello world test for learning
+<<<<<<< HEAD
 # 我是LYF
 # 大家好我是GYL
 ## Day1:♂了GRD
@@ -15,3 +10,10 @@ hello world test for learning
 # 我是ZL
 ## DAY1
 # 我是SJQ+
+=======
+大家好我是xkn
+## 大家好，我是李2进边上的yzh
+# 我是赵慧敏
+# 大家好 我是胡广洋
+# 我是郑朗
+>>>>>>> 06de4ddc08154f7cfd78bab04c4c3b49ea955256
