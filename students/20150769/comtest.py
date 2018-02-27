@@ -23,7 +23,7 @@ for p in ports:
     else :
 	    print ("No Arduino Device was found connected to the computer")
 
-#ser=serial.Serial(port='COM4')
+ser=serial.Serial(port='COM13')
 #ser=serial.Serial(port='/dev/ttymodem542')
 
 def run():
@@ -35,9 +35,13 @@ def run():
             for notes in song1:
                 ser.write(notes.encode())
                 print ("send:"+notes)
-                time.sleep(1)
+                time.sleep(1.2)
         elif action == "2":
-            ser.write('2'.encode())
+           # ser.write('2'.encode())
+            for notes in song2:
+                ser.write(notes.encode())
+                print ("send:"+notes)
+                time.sleep(1.2)
 
         else :
             return
