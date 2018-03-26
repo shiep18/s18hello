@@ -1,7 +1,17 @@
-<<<<<<< HEAD
-# pinghe2017
-An arduino piano controlled by python via serial port
-=======
-# pinghe2017
-An arduino piano controlled by python via serial port
->>>>>>> eb34b94c56e86c90cf3b75cfd92bba26358436ca
+# 蜂鸣器定时  刘永豪
+
+
+
+#树莓派显示我是盲人（14）  陈林登
+
+
+
+#温度传感器的使用 姜项馨
+
+
+
+#粗略外观   杨志恒
+
+
+
+#自动开盖   曹正威
