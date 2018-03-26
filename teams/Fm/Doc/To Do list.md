@@ -1,2 +1,20 @@
-# pinghe2017
-An arduino piano controlled by python via serial port
+#doing
+##
+
+# 蜂鸣器定时  刘永豪
+
+
+
+#树莓派显示我是盲人（14）  陈林登
+
+
+
+#温度传感器的使用 姜项馨
+
+
+
+#粗略外观   杨志恒
+
+
+
+#距离传感   曹正威
