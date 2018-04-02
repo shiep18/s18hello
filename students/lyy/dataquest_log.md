@@ -1,4 +1,4 @@
-Learning Progess log
+Learning Progess log 
 
 
 # Python Basics
@@ -8,7 +8,7 @@ Learning Progess log
 
 ## Booleans and If Statements
    100% ready on 2018/4/2
-
+   
 ## Challenge: Files, Loops, and Conditional Logic
    100% ready on 2018/4/2
    
