@@ -7,7 +7,8 @@ Learning Progess log
    100% ready on 2018/4/2
 
 ## Booleans and If Statements
-
+   100% ready on 2018/4/2
+   
 ## Challenge: Files, Loops, and Conditional Logic
 
 ## List Operations
