@@ -13,10 +13,11 @@ Learning Progess log
    100% ready on 2018/4/2
    
 ## List Operations
-   100% ready on 2018/4/2
-   
+   100% ready on 2018/4/3
+   
 ## Dictionaries
-
+   100% ready on 2018/4/3
+   
 ## Introduction to Functions
 
 ## Debugging Errors
