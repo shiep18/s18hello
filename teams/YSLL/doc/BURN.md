@@ -17,6 +17,7 @@
 ![](m-cookie1.jpg)
 ![](m-cookie2.jpg)
 ![](m-cookie3.jpg)
+![](光敏传感器（天黑灯亮）.jpg)
 
 #Funsion360
 ##1、3D打印杯子外形设计（宋昌蔚）
