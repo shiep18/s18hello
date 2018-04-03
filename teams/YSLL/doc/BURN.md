@@ -1,4 +1,4 @@
-#Arduino
+# Arduino
 ##1、触摸开关，触摸蜂鸣器叫（许门旺）
 
 ##2、温度传感器，检测温度发串口调试（许门旺）
@@ -14,17 +14,17 @@
 ##7、功能结合，2、3、5的融合（郑朗、许门旺）
 
 ##8、定时音乐播放，定时提醒喝水（许门旺）
-![](m-cookie1.jpg)
-![](m-cookie2.jpg)
-![](m-cookie3.jpg)
-![](光敏传感器（天黑灯亮）.jpg)
+![](picture/m-cookie1.jpg)
+![](picture/m-cookie2.jpg)
+![](picture/m-cookie3.jpg)
+![](picture/光敏传感器（天黑灯亮）.jpg)
 
-#Funsion360
+# Funsion360
 ##1、3D打印杯子外形设计（宋昌蔚）
-![](3D打印模型图.PNG)
+![](picture/3D打印模型图.PNG)
 
 ##2、3D打印杯子底座，智能模块封装（宋昌蔚）
-![](3D打印模型图.jpg)
+![](picture/3D打印模型图.PNG)
 
 ##3、3D打印实体跟进（宋昌蔚）
-![](3D打印杯子实物.jpg)
+![](picture/3D打印杯子实物.jpg)
