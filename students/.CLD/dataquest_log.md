@@ -2,13 +2,13 @@ Learning Progess log
 
 
 # Python Basics
-   100% finish on 2018/4/2
+   100% finish on 2018/3/20
 ## Files and Loops
-   100% finish on 2018/4/2
+   100% finish on 2018/3/20
 ## Booleans and If Statements
-    100% finish on 2018/4/2
+    100% finish on 2018/4/7
 ## Challenge: Files, Loops, and Conditional Logic
-    100% finish on 2018/4/2
+    100% finish on 2018/4/7
 ## List Operations
 
 ## Dictionaries
