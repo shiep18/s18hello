@@ -10,11 +10,11 @@ Learning Progess log
 ## Challenge: Files, Loops, and Conditional Logic
     100% finish on 2018/4/7
 ## List Operations
-
+ 100% finish on 2018/4/8
 ## Dictionaries
-
+ 100% finish on 2018/4/8
 ## Introduction to Functions
-
+100% finish on 2018/4/8
 ## Debugging Errors
 
 ## Guided Project: Using Jupyter notebook
