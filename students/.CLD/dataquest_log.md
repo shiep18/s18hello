@@ -10,9 +10,9 @@ Learning Progess log
 ## Challenge: Files, Loops, and Conditional Logic
     100% finish on 2018/4/7
 ## List Operations
-
+ 100% finish on 2018/4/8
 ## Dictionaries
-
+ 100% finish on 2018/4/8
 ## Introduction to Functions
 
 ## Debugging Errors
