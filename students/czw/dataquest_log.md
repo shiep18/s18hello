@@ -44,10 +44,12 @@ Learning Progess log
    100% ready on 2018/4/7
 
 ## Computation with NumPy
-   50% ready on 2018/4/7
+   100% ready on 2018/4/7
 
 ## Introduction to Pandas
+   100% ready on 2018/4/7
 
 # Exploratory Data Visualization
 
 ## Line Charts
+   100% ready on 2018/4/7
