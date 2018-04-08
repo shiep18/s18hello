@@ -33,15 +33,23 @@ Learning Progess log
 # Python Programming: Intermediate
 
 ## Modules
+   100% ready on 2018/4/6
 
 ## Classes
+   100% ready on 2018/4/6
 
 # Data Analysis with Pandas: Intermediate
 
 ## Getting started with NumPy
+   100% ready on 2018/4/7
+
 ## Computation with NumPy
+   100% ready on 2018/4/7
+
 ## Introduction to Pandas
+   100% ready on 2018/4/7
 
 # Exploratory Data Visualization
 
 ## Line Charts
+   100% ready on 2018/4/7
