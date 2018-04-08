@@ -1,10 +1,10 @@
-Learning Progess log 
+Learning Progess log
 
 
 # Python Basics
-
-## Files and Loops
    100% ready on 2018/4/2
+## Files and Loops
+   100% ready on 2018/4/8
 
 ## Booleans and If Statements
 
