@@ -47,4 +47,4 @@ Learning Progess log
 # Exploratory Data Visualization
 
 ## Line Charts
-   10% ready on 2018/4/9
+   100% ready on 2018/4/10
