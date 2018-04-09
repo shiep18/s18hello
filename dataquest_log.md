@@ -2,7 +2,7 @@ Learning Progess log
 
 
 # Python Basics
-   100% finish on 2018/4/9
+   100% finish on 2018/4/9 lyh
 ## Files and Loops
    100% finish on 2018/4/2
 ## Booleans and If Statements
