@@ -19,16 +19,16 @@ Learning Progess log
    100% ready on 2018/4/3
 
 ## Introduction to Functions
-   100% ready on 2018/4/7
+   100% ready on 2018/4/5
 
 ## Debugging Errors
-   100% ready on 2018/4/7
+   100% ready on 2018/4/5
 
 ## Guided Project: Using Jupyter notebook
-   100% ready on 2018/4/7
+   100% ready on 2018/4/6
 
 ## Guided Project: Explore U.S. Births
-   100% ready on 2018/4/7
+   100% ready on 2018/4/6
 
 # Python Programming: Intermediate
    100% ready on 2018/4/7
