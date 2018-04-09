@@ -1,43 +1,37 @@
-<<<<<<< HEAD
-Learning Progress log
-=======
 Learning Progess log
->>>>>>> 6ee071b7dfd2a506d45416e1a865c6f03e5f9205
 
 
 # Python Basics
-   100% ready on 2018/4/2
+
 ## Files and Loops
-   100% ready on 2018/4/8
+   100% ready on 2018/4/2
 
 ## Booleans and If Statements
+   100% ready on 2018/4/3
 
 ## Challenge: Files, Loops, and Conditional Logic
+   100% ready on 2018/4/3
 
 ## List Operations
+   100% ready on 2018/4/3
 
 ## Dictionaries
+   100% ready on 2018/4/3
 
 ## Introduction to Functions
+   100% ready on 2018/4/7
 
 ## Debugging Errors
+   100% ready on 2018/4/7
 
 ## Guided Project: Using Jupyter notebook
+   100% ready on 2018/4/7
 
 ## Guided Project: Explore U.S. Births
+   100% ready on 2018/4/7
 
 # Python Programming: Intermediate
+   100% ready on 2018/4/7
 
 ## Modules
-
-## Classes
-
-# Data Analysis with Pandas: Intermediate
-
-## Getting started with NumPy
-## Computation with NumPy
-## Introduction to Pandas
-
-# Exploratory Data Visualization
-
-## Line Charts
+   99% ready on 2018/4/7
