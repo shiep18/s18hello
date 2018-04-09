@@ -5,45 +5,32 @@
 
 
 #DONE
+##1、设计水杯外形
 
-1、设计水杯外形
+##2、设计水杯尺寸
 
-2、设计水杯尺寸
+##3、设计水杯结构
 
-3、设计水杯结构
+##4、量水杯，mcookie尺寸
 
-4、量水杯，mcookie尺寸
+##5、画3D打印图（一）
 
-5、画3D打印图（一）
+##6、画3D打印图（二）
 
-6、画3D打印图（二）
+##7、画3D打印图（三）
 
-7、画3D打印图（三）
+##8、打印水杯
 
-10、找mcookie程序
-<<<<<<< HEAD:teams/WWE/doc/ToDoList.md
-8、打印水杯
-12、改正水杯的问题
-13、mcookie与树莓派连接
-14、调试mocookie与树莓派的连接
-15、加入mcookie到水杯里
-9、找mcookie相关的arduino程序
-11、查找树莓派蓝牙模块的使用
-=======
+##9、找mcookie相关的arduino程序
 
-8、打印水杯
+##10、找mcookie程序
 
-12、改正水杯的问题
+##11、查找树莓派蓝牙模块的使用
 
-13、mcookie与树莓派连接
+##12、改正水杯的问题
 
-14、调试mocookie与树莓派的连接
+##13、mcookie与树莓派连接
 
-15、加入mcookie到水杯里
+##14、调试mocookie与树莓派的连接
 
-9、找mcookie相关的arduino程序
-
-11、查找树莓派蓝牙模块的使用
-
-
->>>>>>> 9d0dbb86432dfa0ef4c9cb43a043c3cc874faf98:teams/WWE/doc/TO  do list.md
+##15、加入mcookie到水杯里
