@@ -22,11 +22,11 @@ Learning Progess log
 ## Guided Project: Explore U.S. Births
 70% finish on 2018/4/8
 # Python Programming: Intermediate
-
+100% finish on 2018/4/11
 ## Modules
-
+100% finish on 2018/4/11
 ## Classes
-
+100% finish on 2018/4/12
 # Data Analysis with Pandas: Intermediate
 
 ## Getting started with NumPy
