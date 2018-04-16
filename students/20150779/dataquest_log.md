@@ -40,26 +40,6 @@ Learning Progess log
    100% ready on 2018/4/7
 
 # Data Analysis with Pandas: Intermediate
-<<<<<<< HEAD
-   100% ready on 2018/4/8
-
-=======
-<<<<<<< HEAD
-   
->>>>>>> 08551bac7e4967fd776bdbc60c00480430d6e2c2
-## Getting started with NumPy
-
-
-## Computation with NumPy
-
-
-## Introduction to Pandas
-
-
-# Exploratory Data Visualization
-
-## Line Charts
-=======
    100% ready on 2018/4/8
 
 ## Getting started with NumPy
@@ -76,7 +56,18 @@ Learning Progess log
 
 ## Line Charts
    100% ready on 2018/4/8
-<<<<<<< HEAD
-=======
->>>>>>> 9f8c71bfdafb22d1ad8c6faf1c5ad8f841a0cbd9
->>>>>>> 08551bac7e4967fd776bdbc60c00480430d6e2c2
+
+## Getting started with NumPy
+   100% ready on 2018/4/8
+
+## Computation with NumPy
+   100% ready on 2018/4/8
+
+## Introduction to Pandas
+   100% ready on 2018/4/8
+
+# Exploratory Data Visualization
+   100% ready on 2018/4/8
+
+## Line Charts
+   100% ready on 2018/4/8
