@@ -28,7 +28,7 @@ Learning Progess log
 ## Classes
 100% finish on 2018/4/12
 # Data Analysis with Pandas: Intermediate
-
+100% finish on 2018/4/18
 ## Getting started with NumPy
 100% finish on 2018/4/18
 ## Computation with NumPy
