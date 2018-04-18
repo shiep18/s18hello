@@ -30,7 +30,9 @@ Learning Progess log
 # Data Analysis with Pandas: Intermediate
 
 ## Getting started with NumPy
+100% finish on 2018/4/18
 ## Computation with NumPy
+100% finish on 2018/4/18
 ## Introduction to Pandas
 
 # Exploratory Data Visualization
