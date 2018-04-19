@@ -36,5 +36,6 @@ Learning Progess log
 ## Introduction to Pandas
 100% finish on 2018/4/19
 # Exploratory Data Visualization
-
+100% finish on 2018/4/19
 ## Line Charts
+100% finish on 2018/4/19
