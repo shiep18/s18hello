@@ -56,3 +56,18 @@ Learning Progess log
 
 ## Line Charts
    100% ready on 2018/4/8
+
+## Getting started with NumPy
+   100% ready on 2018/4/8
+
+## Computation with NumPy
+   100% ready on 2018/4/8
+
+## Introduction to Pandas
+   100% ready on 2018/4/8
+
+# Exploratory Data Visualization
+   100% ready on 2018/4/8
+
+## Line Charts
+   100% ready on 2018/4/8
