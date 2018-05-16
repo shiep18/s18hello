@@ -1,0 +1,5 @@
+Quote form TI:"A built-in watchdog timer allows the CC2530 to reset itself in case the firmware hangs. When enabled by
+software, the watchdog timer must be cleared periodically; otherwise, it resets the device when it times out. It can
+alternatively be configured for use as a general 32-kHz timer."
+
+There is no 32KHz oscillator on board ,hence I cannot complete this test.
