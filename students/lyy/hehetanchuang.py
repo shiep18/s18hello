@@ -1,0 +1,1 @@
+#! /usr/bin/pythonfrom Tkinter import*import sysboot = Tk()boot.title("hehe")boot.geometry("100x100")i = Label(boot,text=sys.argv[1],bg = "green" , font = ("Arial",12),width = 6,height = 4)i.pack(side = BOTTOM)boot.mainloop()
